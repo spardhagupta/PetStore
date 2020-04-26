@@ -129,7 +129,7 @@ function test_input($data) {
         </form>
 
        <footer><em></em>Copyright &copy; 2019 Pet Store</em>
-                <br><em><a href="mailto:hhh.com">spardha@gupta.com</a></em>
+                <br><em><a href="mailto:">spardha@gupta.com</a></em>
         </footer>
 
 
