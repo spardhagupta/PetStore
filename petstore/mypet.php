@@ -2,9 +2,9 @@
 
 
 $dbhost = 'localhost:3306';
-$dbuser = 'ruchirch_rdb';
+$dbuser = 'spardha22_rdb';
 $dbpass = 'Petstore123';
-$db = 'ruchirch_db';
+$db = 'spardha22_db';
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
 if(! $conn ) {
     die('Could not connect: ' . mysql_error());
@@ -131,7 +131,7 @@ function changePassword($oldPassword, $newPassword1, $newPassword2) {
         $sql = "INSERT INTO `contact`(`fname`, `lname`, `email`, `phone`, `comments`) VALUES ('$fn','$ln','$em','$ph','$comm')";
 				if($conn -> query($sql) ===TRUE)
 				{	
-				$to_email = 'chugh.ruchir@gmail.com';
+				$to_email = 'spardha22@gmail.com';
 				$subject = 'Contact Us Page Information';
 				$message = 'You have a message. First Name =  '. $fn .'. Last Name = ' . $ln .'. Email = ' . $em.'. Contact = ' . $ph .'. Comments =  ' . $comm;
 				$headers = 'From:noreply@raopetstore.com';
