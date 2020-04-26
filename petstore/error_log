@@ -1,0 +1,16 @@
+[28-Nov-2018 16:55:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'petstore'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 16:55:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'petstore'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 16:58:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'petstore'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 20:48:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'petstore'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 21:09:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'petstore'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 21:24:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ruchirdb'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 21:25:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_ruejg2d37l@localhost'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 21:25:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_ruejg2d37l@localhost'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 21:26:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_ruejg2d37l'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 22:03:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_ruejg2d37l'@'localhost' (using password: YES) in /home/ruchirch/public_html/final/mypet.php on line 8
+[28-Nov-2018 22:07:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ruchirch/public_html/final/mypet.php on line 131
+[28-Nov-2018 22:08:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ruchirch/public_html/final/mypet.php on line 131
+[28-Nov-2018 22:09:13 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ruchirch/public_html/final/mypet.php on line 131
+[28-Nov-2018 22:11:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ruchirch/public_html/final/mypet.php on line 131
+[28-Nov-2018 22:12:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ruchirch/public_html/final/mypet.php on line 131
+[28-Nov-2018 22:12:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruchirch/public_html/final/ContactUs.php:12) in /home/ruchirch/public_html/final/mypet.php on line 141
