@@ -96,8 +96,8 @@ function test_input($data) {
                     <input type="submit" value="Submit" name="login_service">
         </form>
 
-       <footer><em></em>Copyright &copy; 2018 Pet Store</em>
-        <br><em><a href="mailto:viraj@thakur.com">viraj@thakur.com</a></em></footer>
+       <footer><em></em>Copyright &copy; 2019 Pet Store</em>
+        <br><em><a href="mailto:spardha.com">spardha@gupta.com</a></em></footer>
 
 
     </div>
