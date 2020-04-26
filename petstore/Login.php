@@ -100,8 +100,8 @@ function test_input($data) {
             <input type="submit" value="Submit" name="login">
         </form>
     
-       <footer><em></em>Copyright &copy; 2018 Pet Store</em>
-                <br><em><a href="mailto:hhh.com">chugh@ruchir.com</a></em>
+       <footer><em></em>Copyright &copy; 2019 Pet Store</em>
+                <br><em><a href="mailto:hhh.com">spardha@gupta.com</a></em>
         </footer>
 
 
